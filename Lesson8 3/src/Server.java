@@ -82,15 +82,15 @@ public class Server {
         return books;
 
     }
-//    public static void deleteI(Long id){
-//        try {
-//            PreparedStatement preparedStatement =
-//                    connection.prepareStatement("DELETE FROM item WHERE id="+ id);
-//            preparedStatement.executeUpdate();
-//            preparedStatement.close();
-//
-//        }catch (Exception e){
-//            e.printStackTrace();
-//        }
-//    }
+    public static void deleteI(Long id){
+        try {
+            PreparedStatement preparedStatement =
+                    connection.prepareStatement("DELETE FROM item WHERE id="+ id);
+            preparedStatement.executeUpdate();
+            preparedStatement.close();
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
 }
