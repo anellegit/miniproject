@@ -17,7 +17,8 @@ public class Client {
             while (true){
                 System.out.println("1. Add book");
                 System.out.println("2. List books");
-                System.out.println("3. Disconnect from server");
+                System.out.println("3 delete book");
+                System.out.println("4. Disconnect from server");
 
                 String choise = scan.next();
 
