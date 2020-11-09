@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f39dad11-baa8-45d6-80ee-a9df9fe87913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8 3/.idea/Lesson8 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8 3/src/NewClass.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson8 3/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8 3/src/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604911342178</updated>
-      <workItem from="1604911344368" duration="281000" />
+      <workItem from="1604911344368" duration="1192000" />
     </task>
     <task id="LOCAL-00001" summary="adding menu functions">
       <created>1604911418281</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604911418281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding menu functions">
+      <created>1604911915842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604911915842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,9 +84,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="adding menu functions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="312" y="55" key="CommitChangelistDialog2" timestamp="1604911418020">
+    <state x="312" y="55" key="CommitChangelistDialog2" timestamp="1604911915699">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="312" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604911418020" />
+    <state x="312" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604911915699" />
   </component>
 </project>
